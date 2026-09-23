@@ -2,6 +2,12 @@
 
 REST API for a full-stack MERN music streaming application. Handles authentication, song catalog, playlists, likes and comments.
 
+🔗 **Live API**: https://music-streaming-app-backend-2vly.onrender.com
+🎵 **Live App**: https://musicstreaming-app.netlify.app/
+💻 **Frontend Repo**: https://github.com/SathiyamoorthiSowmiya/music-streaming-app-frontend
+
+> Hosted on Render's free tier — the server sleeps after inactivity, so the first request after a while may take 30-50s to wake up.
+
 ## Tech Stack
 
 - Node.js + Express.js
